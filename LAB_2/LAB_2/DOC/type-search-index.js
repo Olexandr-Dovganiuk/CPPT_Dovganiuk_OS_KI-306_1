@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"KI306.Dovganiuk.Lab2","l":"Airplane"},{"p":"KI306.Dovganiuk.Lab2","l":"AirplaneApp"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI306.Dovganiuk.Lab2","l":"Airplane.Avionics"},{"p":"KI306.Dovganiuk.Lab2","l":"Airplane.Body"},{"p":"KI306.Dovganiuk.Lab2","l":"Airplane.Engine"}];updateSearchResults();
